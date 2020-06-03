@@ -1,4 +1,5 @@
 # Fraudulent Transaction Detection
+
 ![](./imgs/imb.png)   
 
 E-commerce websites often transact huge amounts of money. Whenever a huge amount of money is moved, there is a high risk of users performing fraudulent activities, e.g. using stolen credit cards, laundering money, etc. 
