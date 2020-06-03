@@ -11,3 +11,5 @@ E-commerce websites often transact huge amounts of money. Whenever a huge amount
 
 
 #### Note: Dataset is not included.
+
+More info:  [Fraud Detection Notebook](https://github.com/razmyar/FraudDetection-Imbalanced/blob/master/Fraud_Detection.ipynb).
